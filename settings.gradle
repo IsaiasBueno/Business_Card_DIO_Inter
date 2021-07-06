@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Business_Card_DIO_Inter"
